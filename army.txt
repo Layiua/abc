@@ -1,1 +1,1 @@
-Lau:0.tcp.ap.ngrok.io:14737
+Thiên hà Milky Way:127.0.0.1:8125
