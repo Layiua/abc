@@ -1,9 +1,14 @@
-(venv) root@firebase-duong1-1747961528941:/home/user/text-generation-webui# python3 server.py --model OpenHermes-13B --listen
-Traceback (most recent call last):
-  File "/home/user/text-generation-webui/server.py", line 4, in <module>
-    from modules import shared
-  File "/home/user/text-generation-webui/modules/shared.py", line 9, in <module>
-    import yaml
-ModuleNotFoundError: No module named 'yaml'
-(venv) root@firebase-duong1-1747961528941:/home/user/text-generation-webui# pip install yaml
-ERROR: Could not find a version
+(venv) root@firebase-duong1-1747961528941:/home/user/text-generation-webui# ./start_linux.sh
+
+
+*******************************************************************
+* You haven't downloaded any model yet.
+* Once the web UI launches, head over to the "Model" tab and download one.
+*******************************************************************
+
+
+02:19:00-825824 INFO     Starting Text generation web UI                        
+
+Running on local URL:  http://127.0.0.1:7860
+
+
