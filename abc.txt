@@ -1,1 +1,4 @@
-https://drive.google.com/file/d/1O1zEhwSC-AAnycF7DysVxqJkHBnLzQrp/view
+(venv) root@firebase-duong1-1747961528941:/home/user/text-generation-webui# pip install -r requirements.txt
+ERROR: Could not open requirements file: [Errno 2] No such file or directory: 'requirements.txt'
+(venv) root@firebase-duong1-1747961528941:/home/user/text-generation-webui# 
+
