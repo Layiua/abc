@@ -5,3 +5,4 @@ OpenHermes-13B
 /home/user/text-generation-webui/models/OpenHermes-13B:
 Nous-Hermes-13B.Q6_K.gguf
 user@firebase-duong1-1747961528941:~$ 
+Enter the Hugging Face username/model path, for instance: facebook/galactica-125m. To specify a branch, add it at the end after a ":" character like this: facebook/galactica-125m:main. To download a single file, enter its name in the second box.
