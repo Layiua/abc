@@ -1,14 +1,7 @@
-(venv) root@firebase-duong1-1747961528941:/home/user/text-generation-webui# ./start_linux.sh
+user@firebase-duong1-1747961528941:~$ ls /home/user/text-generation-webui/models -R
+/home/user/text-generation-webui/models:
+OpenHermes-13B
 
-
-*******************************************************************
-* You haven't downloaded any model yet.
-* Once the web UI launches, head over to the "Model" tab and download one.
-*******************************************************************
-
-
-02:19:00-825824 INFO     Starting Text generation web UI                        
-
-Running on local URL:  http://127.0.0.1:7860
-
-
+/home/user/text-generation-webui/models/OpenHermes-13B:
+Nous-Hermes-13B.Q6_K.gguf
+user@firebase-duong1-1747961528941:~$ 
